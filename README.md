@@ -45,10 +45,10 @@ protein-function-prediction
 	        /testsuperset.fasta
 	    /IA.txt
 	/t5_embeds
-        /test_embeds.npy
-        /test_ids.npy
-        /train_embeds.npy
-        /train_ids.npy
+	    /test_embeds.npy
+	    /test_ids.npy
+	    /train_embeds.npy
+	    /train_ids.npy
 	/protein_function_prediction.ipynb
 ```
 
