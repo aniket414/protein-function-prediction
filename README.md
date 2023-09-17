@@ -9,7 +9,6 @@ Gene Ontology: The ontology data is in the file `go-basic.obo`. This structure i
 subontology_roots = { 'BPO':'GO:0008150',
                       'CCO':'GO:0005575',
                       'MFO':'GO:0003674' }
-
 ```
 
 Training sequences: train_sequences.fasta contains the protein sequences for the training dataset. The train_sequences.fasta file will indicate from which database the sequence originate.
