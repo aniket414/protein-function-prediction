@@ -33,22 +33,22 @@ Information accretion: IA.txt contains the information accretion (weights) for e
 ### Folder Structure
 
 ``` 
-protein-function-prediction \
-	/data \
-	    /Train \
-	        /go-basic.obo \
-	        /train_sequences.fasta \
-	        /train_taxonomy.tsv \
-	        /train_terms.tsv \
-	    /Tests (Targets) \
-	        /testsuperset-taxon-list.tsv \
-	        /testsuperset.fasta \
-	    /IA.txt \
-	/t5_embeds \
-        /test_embeds.npy \
-        /test_ids.npy \
-        /train_embeds.npy \
-        /train_ids.npy \
+protein-function-prediction
+	/data
+	    /Train
+	        /go-basic.obo
+	        /train_sequences.fasta
+	        /train_taxonomy.tsv
+	        /train_terms.tsv
+	    /Tests (Targets)
+	        /testsuperset-taxon-list.tsv
+	        /testsuperset.fasta
+	    /IA.txt
+	/t5_embeds
+        /test_embeds.npy
+        /test_ids.npy
+        /train_embeds.npy
+        /train_ids.npy
 	/protein_function_prediction.ipynb
 ```
 
