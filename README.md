@@ -11,13 +11,13 @@ subontology_roots = { 'BPO':'GO:0008150',
                       'MFO':'GO:0003674' }
 ```
 
-Training sequences: train_sequences.fasta contains the protein sequences for the training dataset. The train_sequences.fasta file will indicate from which database the sequence originate.
+Training Sequences: `train_sequences.fasta` contains the protein sequences for the training dataset. The `train_sequences.fasta` file will indicate from which database the sequence originate.
 
-Labels: train_terms.tsv contains the list of annotated terms (ground truth) for the proteins in train_sequences.fasta. The first column indicates the protein's UniProt accession ID, the second is the GO term ID, and the third indicates in which ontology the term appears.
+Labels: `train_terms.tsv` contains the list of annotated terms (ground truth) for the proteins in train_sequences.fasta. The first column indicates the protein's UniProt accession ID, the second is the GO term ID, and the third indicates in which ontology the term appears.
 
-Taxonomy: train_taxonomy.tsv contains the list of proteins and the species to which they belong, represented by a "taxonomic identifier" (taxon ID) number. The first column is the protein UniProt accession ID and the second is the taxon ID.
+Taxonomy: `train_taxonomy.tsv` contains the list of proteins and the species to which they belong, represented by a "taxonomic identifier" (taxon ID) number. The first column is the protein UniProt accession ID and the second is the taxon ID.
 
-Information accretion: IA.txt contains the information accretion (weights) for each GO term. These weights are used to compute weighted precision and recall, as described in the Evaluation section.
+Information Accretion: `IA.txt` contains the information accretion (weights) for each GO term. These weights are used to compute weighted precision and recall, as described in the Evaluation section.
 
 #### Files
 
