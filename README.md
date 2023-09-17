@@ -6,9 +6,9 @@
 
 Gene Ontology: The ontology data is in the file `go-basic.obo`. This structure is the 2023-01-01 release of the GO graph. This file is in OBO format, for which there exist many parsing libraries.
 ```
-subontology_roots = { 'BPO':'GO:0008150', \
-                      'CCO':'GO:0005575', \
-                      'MFO':'GO:0003674' } \
+subontology_roots = { 'BPO':'GO:0008150',
+                      'CCO':'GO:0005575',
+                      'MFO':'GO:0003674' }
 
 ```
 
@@ -54,10 +54,10 @@ protein-function-prediction \
 
 ### Steps to Run and Execute the Code:
 
-- Clone the repository.
-- Download the `t5_embeds` embeddings from [here](https://www.kaggle.com/datasets/sergeifironov/t5embeds).
-- Check the folder structure is as mentioned above or make changes to the data import path in the ipynb file.
-- Execute the cells one by one.
+1. Clone the repository.
+2. Download the `t5_embeds` embeddings from [here](https://www.kaggle.com/datasets/sergeifironov/t5embeds).
+3. Check the folder structure is as mentioned above or make changes to the data import path in the ipynb file.
+4. Execute the cells one by one.
 
 ### Note
 
