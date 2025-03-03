@@ -65,17 +65,28 @@ protein-function-prediction
 
 ## Citation
 ```
-@inbook{doi:https://doi.org/10.1002/9781394209965.ch6,
-author = {Jakhmola-Mani, Ruchi and Sonali and Pandey, Aniket and Raturi, Dhananjay and Singh, Rishita and Vanam, Kusala and D, Manish and Chauhan, Ritu and Katare, Deepshikha Pande and Nongdam, Potshangbam and Potshangbam, Angamba Meetei},
-publisher = {John Wiley & Sons, Ltd},
-isbn = {9781394209965},
-title = {Exploring Machine Learning Algorithms for Gene Function Prediction in Crops},
-booktitle = {Bioinformatics for Plant Research and Crop Breeding},
-chapter = {6},
-pages = {159-183},
-doi = {https://doi.org/10.1002/9781394209965.ch6},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394209965.ch6},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781394209965.ch6},
-year = {2024}
+@inbook{
+	doi:https://doi.org/10.1002/9781394209965.ch6,
+	author = {Jakhmola-Mani, Ruchi and
+		Sonali and
+		Pandey, Aniket and
+		Raturi, Dhananjay and
+		Singh, Rishita and
+		Vanam, Kusala and
+		D, Manish and
+		Chauhan, Ritu and
+		Katare, Deepshikha Pande and
+		Nongdam, Potshangbam and
+		Potshangbam, Angamba Meetei},
+	publisher = {John Wiley & Sons, Ltd},
+	isbn = {9781394209965},
+	title = {Exploring Machine Learning Algorithms for Gene Function Prediction in Crops},
+	booktitle = {Bioinformatics for Plant Research and Crop Breeding},
+	chapter = {6},
+	pages = {159-183},
+	doi = {https://doi.org/10.1002/9781394209965.ch6},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394209965.ch6},
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781394209965.ch6},
+	year = {2024}
 }
 ```
